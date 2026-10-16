@@ -1,6 +1,6 @@
 # MCP File Server: Short Report
 
-Author: <Ronel L. Bantayao> | Course: BSCS 3B | Date: 16 Oct 2026
+Author: Ronel L. Bantayao | Course: BSCS 3B | Date: 16 Oct 2026
 
 ## 1. Summary
 
